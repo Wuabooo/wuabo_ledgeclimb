@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <sub>Hello, in this Organization you will find the highest quality resources produced by the Wuabo.</sub>
+  <sub>Allows players to grab and climb ledges while jumping or falling</sub>
 </div>
 
 <br/>
